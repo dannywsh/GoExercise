@@ -1,3 +1,5 @@
+package main
+
 type Trie struct {
 	isEnd bool      //结束标志
 	next  [26]*Trie //26个英文小写字母的指针

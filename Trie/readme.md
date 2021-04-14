@@ -1,4 +1,7 @@
+
 # Trie树
+> 来源：<https://leetcode-cn.com/problems/implement-trie-prefix-tree/solution/trie-tree-de-shi-xian-gua-he-chu-xue-zhe-by-huwt/>
+
 Trie树又称字典树，前缀树，单词查找树
 
 Trie 是一颗非典型的多叉树模型，多叉好理解，即每个结点的分支数量可能为多个。
